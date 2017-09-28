@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Numbers</title>
+</head>
+<body>
+    <form action="/calculate" method="post">
+        <label>
+            <input type="number" name="number" required>
+            Enter the number
+        </label>
+        <button type="submit">Calculate</button>
+    </form>
+</body>
+</html>

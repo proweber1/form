@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculate result</title>
+</head>
+<body>
+    Result: {{ result }}
+</body>
+</html>
